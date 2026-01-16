@@ -4,3 +4,10 @@ x.com
 tiktok.com
 whatsapp.com
 youtube.com
+www.facebook.com
+www.instagram.com
+www.x.com
+www.tiktok.com
+www.whatsapp.com
+www.youtube.com
+web.whatsapp.com
